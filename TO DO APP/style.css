@@ -1,0 +1,39 @@
+.container{
+    display: block;
+    
+}
+body{
+    color: white;
+    background-image: url(images/img1.jpg);
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h1{
+    color: white;
+    text-align: center;
+}
+#inp{
+    padding: 5px;
+    
+
+    
+}
+button{
+    /* display: block; */
+
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+ul{
+   text-align: center;
+   list-style: none;
+}
+button{
+    background-color: slategray;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
